@@ -1,4 +1,4 @@
-# About Riley Chenau
+# About Riley Chen
 
 ## Summary
 
