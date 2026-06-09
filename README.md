@@ -4,9 +4,6 @@
 
 I'm a Statistics student at the University of Melbourne (Bachelor of Science), 
 specialising in data science, quantitative finance, and scientific computing. 
-Alongside my studies, I'm building a pet business from the ground up — currently 
-in the pre-market stage — developing real-world skills in product development, 
-market research, and business strategy.
 
 ## About This Repo
 
