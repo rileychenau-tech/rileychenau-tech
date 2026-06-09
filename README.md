@@ -17,8 +17,6 @@ every project here reflects something I'm actively exploring or applying in the 
 
 ## 💼 Current Projects
 
-- 🐾 **Pet Business (Pre-market)** — Founding and developing a pet business from scratch,
-  covering market validation, branding, and go-to-market strategy
 - 📈 **Quantitative Finance** — Building models and tools for financial analysis and 
   algorithmic thinking
 - 🤖 **SWE / ML Projects** — End-to-end software and machine learning pipelines
